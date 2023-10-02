@@ -1,0 +1,16 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    text-align: center;
+    color: rgb(185,0,100);
+}
+
+ul,
+a{
+    list-style: none;
+    font-weight: 800;
+    text-decoration: none;
+    color: rgb(0,0,0);
+}
